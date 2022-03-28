@@ -42,4 +42,6 @@ Die lösungen für Java Aufgaben von <a href=http://www.gailer-net.de/tutorials/
 * <a href=https://github.com/iremben/Java-Tutorial-Exercises/blob/main/kapitel17aufgabe2.java>Kapitel 17 Aufgabe 2 (DE)</a>
 * <a href=https://github.com/iremben/Java-Tutorial-Exercises/blob/main/kapitel17aufgabe3.java>Kapitel 17 Aufgabe 3 (DE)</a>
 * <a href=https://github.com/iremben/Java-Tutorial-Exercises/blob/main/kapitel17aufgabe4.java>Kapitel 17 Aufgabe 4 (DE)</a>
-
+* <a href=https://github.com/iremben/Java-Tutorial-Exercises/blob/main/kapitel18aufgabe1.java>Kapitel 18 Aufgabe 1 (DE)</a>
+* <a href=https://github.com/iremben/Java-Tutorial-Exercises/blob/main/kapitel18aufgabe2.java>Kapitel 18 Aufgabe 2 (DE)</a>
+* <a href=https://github.com/iremben/Java-Tutorial-Exercises/blob/main/kapitel18aufgabe3.java>Kapitel 18 Aufgabe 3 (DE)</a>
